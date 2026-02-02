@@ -1,0 +1,192 @@
+Build a premium investor-focused website for a Granite Waste Recycling Plant.
+
+The website must communicate industrial scale, environmental responsibility, and regulatory readiness.
+This is an investor & compliance-grade website, not a casual marketing site.
+
+DESIGN SYSTEM
+
+Primary color: Deep Black (#0b0b0b)
+
+Secondary color: Stone / Granite Silver (#9e9e9e, #b3b3b3)
+
+Accent colors: Muted mineral green, steel blue, concrete beige (only where appropriate)
+
+Overall feel: Industrial, minimal, premium
+
+Typography:
+
+Clean modern font (Inter / SF / Montserrat style)
+
+Strong headings, restrained body text
+
+SECTION 1: HERO (NO PROCESS GRAPHICS HERE)
+Hero Headline
+
+Zero-Waste Granite Recycling
+
+Hero Subheadline
+
+Transforming granite waste into high-quality construction materials through a closed-loop, environmentally responsible recycling process.
+
+Supporting Line (small text)
+
+Sustainable • Compliant • Scalable • Future-Ready
+
+Hero Visual
+
+Dark industrial background
+
+Subtle motion (gradient shift / abstract industrial animation)
+
+No diagrams or process visuals in hero
+
+SECTION 2: PROCESS FLOW (MOTION GRAPHICS SECTION — VERY IMPORTANT)
+Section Title
+
+Closed-Loop Recycling Process
+
+Section Intro (short)
+
+Our plant operates on a fully integrated, zero-waste recycling model where granite waste is systematically processed, reused, and converted into certified construction materials with no liquid discharge.
+
+Core Requirement
+
+I am attaching an image of the Process Flow Diagram.
+
+Recreate this exact process as motion graphics
+
+Animate the flow step-by-step
+
+Arrows must animate to show continuous circular movement
+
+Use SVG / CSS / JS animations
+
+Smooth, premium transitions (fade + slide or line-draw)
+
+Process Steps (use these exact labels)
+
+Granite Waste Intake
+
+Pre-Sorting
+
+Primary Crushing (Jaw Crusher)
+
+Screening
+
+Secondary / Tertiary Crushing
+
+Sand Washing
+
+Vibrating Screening
+
+Filter Press & Slurry Handling
+
+Water Recycling (Closed Loop)
+
+Saleable Products & Stockpiling
+
+Caption Rule
+
+Each step should show only one technical line on hover or scroll:
+
+“Size reduction for controlled material grading”
+
+“Washing removes impurities and recovers fines”
+
+“Clarified water reused in washing cycle”
+
+SECTION 3: SUSTAINABILITY & COMPLIANCE
+Section Title
+
+Built for Environmental Compliance
+
+Content
+
+The plant is engineered to meet and exceed environmental norms through advanced pollution control systems, efficient water management, and zero-waste processing.
+
+Key Highlights
+
+90% water reuse with Zero Liquid Discharge
+
+Fully enclosed crushing and screening units
+
+Dust suppression through mist cannons and bag filters
+
+Slurry converted into value-added products
+
+Dedicated green belt and buffer zones
+
+SECTION 4: OUTPUT PRODUCTS
+Section Title
+
+Recycled Construction Materials
+
+Intro
+
+Granite waste is transformed into high-quality, application-ready construction products suitable for infrastructure and building projects.
+
+Product List
+
+M-Sand (Manufactured Sand)
+
+P-Sand (Plastering Sand)
+
+GSB & Aggregates
+
+Recycled Tiles, Bricks & Pavers
+
+SECTION 5: INVESTOR & PARTNER VALUE
+Section Title
+
+Designed for Long-Term Value
+
+Content
+
+This facility represents a future-ready industrial model aligned with circular economy principles, regulatory frameworks, and sustainable infrastructure growth.
+
+Value Points
+
+Reduced dependency on natural sand and quarrying
+
+Strong regulatory positioning and approval readiness
+
+Scalable operations on large land parcel
+
+Consistent demand from regional infrastructure development
+
+Environmentally responsible revenue generation
+
+FOOTER
+
+Clean, minimal
+
+Focus on credibility and professionalism
+
+No aggressive CTAs
+
+ANIMATION & TECH GUIDELINES
+
+Motion graphics must start after the hero section
+
+Use scroll-triggered animations
+
+No flashy or playful effects
+
+Smooth, restrained, premium motion
+
+Desktop-first, fully responsive
+
+IMPORTANT NOTE
+
+This website must feel:
+
+Industrial
+
+Trust-driven
+
+Investor-ready
+
+Compliance-oriented
+
+Do not redesign the process logic.
+Animate and present it clearly.

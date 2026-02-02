@@ -1,0 +1,68 @@
+IMPORTANT:
+Do not change the existing layout, UI structure, animations, motion graphics, colors, spacing, or section order.
+This task is content enrichment only, using information from the Granite Waste Recycling Project Report.
+
+Content Enhancement Rules
+
+Add supporting explanatory text only
+
+Keep explanations technical, concise, and professional
+
+No marketing language
+
+No redesign or component changes
+
+SECTION-WISE CONTENT TO ADD
+Hero Section (Small Supporting Line Only)
+
+Add one subtle supporting line below the existing hero text:
+
+A 250 TPH granite recycling facility operating on a 6-acre site, designed to align with circular economy and environmental compliance frameworks.
+
+Process Flow Section (Below the Motion Graphics)
+
+Add a short explanatory paragraph below the animated process, not inside it:
+
+The recycling process integrates crushing, screening, washing, and water recovery into a single closed-loop system. Granite waste, slurry, and rejected blocks are processed through multiple stages to produce construction-grade materials while ensuring zero liquid discharge and complete reuse of waste streams.
+
+Add one technical note below this paragraph:
+
+Clarified water from the washing process is treated through settling tanks and filter press systems and reused continuously within the plant.
+
+Sustainability & Compliance Section
+
+Add a compact explanatory block under existing highlights:
+
+The facility is engineered to comply with environmental regulations prescribed by KSPCB, MoEFCC, and Construction & Demolition Waste Management Rules, 2016. Pollution control systems, water recycling infrastructure, and green belt development form the core of operational compliance.
+
+Add a second short line:
+
+The plant operates with a target of 100% waste utilization and zero discharge outside the premises.
+
+Products Output Section
+
+Add a single explanatory paragraph under the product list:
+
+Recycled outputs are produced from granite dust, slurry, and rejected stone blocks. These materials meet construction standards for infrastructure, concrete, and paving applications while reducing dependence on natural river sand and virgin aggregates.
+
+Investor / Value Section
+
+Add one supporting paragraph below the existing content:
+
+The project leverages an existing 250 TPH crusher unit, reducing initial capital expenditure while enabling large-scale recycling operations. The availability of 6 acres of land supports efficient plant layout, stockyard management, water treatment facilities, and future capacity expansion.
+
+Add a final one-line statement:
+
+The model is designed for long-term operational stability, regulatory readiness, and sustainable revenue generation.
+
+FINAL CONSTRAINT
+
+Do not modify motion graphics
+
+Do not alter typography scale
+
+Do not introduce new visuals
+
+Do not rewrite existing text
+
+Only append explanatory content where specified.
