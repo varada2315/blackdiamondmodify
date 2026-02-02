@@ -1,0 +1,37 @@
+Create a new standalone page titled “Environmental Impact Calculator” for BlackDiamondGranites.
+The purpose of this page is to let visitors interactively calculate the real environmental impact of granite recycling, based on realistic industry assumptions and the actual plant process.
+Page Objective:
+Help users understand how much environmental damage is avoided when granite waste is recycled.
+Translate industrial recycling into clear, measurable impact metrics.
+Maintain technical credibility suitable for investors, regulators, and the public.
+Calculator Inputs (Keep Simple):
+Granite Waste Processed (in Tons) – numeric input
+Example placeholder: Enter quantity in tons (e.g., 100, 500, 1000)
+Calculation Logic (Use Industry-Realistic Estimates):
+River Sand Saved
+Assume ~0.75 tons of river sand replaced per ton of recycled granite.
+Granite Waste Diverted from Dumping
+1 ton processed = 1 ton waste diverted.
+Fresh Water Saved
+Assume ~1.5 KL water used per ton, with ~90% recycled via closed-loop system.
+Environmental Impact Indicators (Non-Carbon Claims)
+Reduced river sand mining
+Reduced slurry dumping and groundwater contamination
+Reduced dependency on virgin aggregates
+Results Section (Stats View):
+Display results as clear stat cards or counters, for example:
+River Sand Saved: ___ tons
+Waste Diverted from Landfill: ___ tons
+Fresh Water Saved: ___ KL
+Environmental Benefit: Reduced river mining and water stress
+Include simple icons or visual indicators, but keep the design industrial and factual, not playful.
+Disclaimers (Important):
+Add a small note below results:
+Figures are indicative estimates based on industry averages and plant recovery efficiencies. Actual results may vary depending on material characteristics and operating conditions.
+Tone & Constraints:
+Avoid terms like 100% green, carbon neutral, or zero waste.
+Focus on measured, defensible impact.
+Match the existing site’s dark, industrial, premium aesthetic.
+Do not oversell sustainability; explain environmental protection through engineering.
+The final page should make visitors clearly understand:
+“Because this granite is recycled here, this much environmental damage is avoided.”

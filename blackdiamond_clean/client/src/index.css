@@ -1,0 +1,91 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: 'Inter', sans-serif;
+  --font-heading: 'Montserrat', sans-serif;
+  
+  --color-background: hsl(0 0% 4%); /* Deep Black #0b0b0b */
+  --color-foreground: hsl(0 0% 95%);
+  
+  --color-card: hsl(0 0% 7%);
+  --color-card-foreground: hsl(0 0% 95%);
+  
+  --color-popover: hsl(0 0% 7%);
+  --color-popover-foreground: hsl(0 0% 95%);
+  
+  --color-primary: hsl(0 0% 95%);
+  --color-primary-foreground: hsl(0 0% 4%);
+  
+  --color-secondary: linear-gradient(135deg, hsl(200 40% 60%), hsl(180 35% 70%)); /* Ocean Blue Gradient */
+  --color-secondary-foreground: hsl(0 0% 4%);
+  
+  --color-muted: hsl(0 0% 12%);
+  --color-muted-foreground: hsl(0 0% 65%);
+  
+  --color-accent: hsl(150 15% 55%); /* Brighter, more vibrant Mineral Green */
+  --color-accent-foreground: hsl(0 0% 98%);
+  
+  --color-tertiary: linear-gradient(135deg, hsl(35 60% 55%), hsl(45 50% 65%)); /* Warm Gold Gradient */
+  --color-tertiary-foreground: hsl(0 0% 4%);
+  
+  --color-destructive: hsl(0 60% 50%);
+  --color-destructive-foreground: hsl(0 0% 98%);
+  
+  --color-border: hsl(0 0% 18%);
+  --color-input: hsl(0 0% 18%);
+  --color-ring: hsl(0 0% 75%);
+  
+  --radius-sm: 0.2rem;
+  --radius-md: 0.4rem;
+  --radius-lg: 0.6rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply font-sans antialiased bg-background text-foreground selection:bg-accent/30 selection:text-white;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-bold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-linear-to-b from-white via-white to-neutral-400;
+  }
+  
+  .glass-panel {
+    @apply bg-white/5 backdrop-blur-md border border-white/10;
+  }
+
+  .diamond-glow {
+    @apply shadow-[0_0_40px_-10px_rgba(255,255,255,0.1)];
+  }
+
+  .bg-grid-white {
+    background-image: radial-gradient(circle, rgba(255,255,255,0.05) 1px, transparent 1px);
+    background-size: 30px 30px;
+  }
+
+  @keyframes very-slow-zoom {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .animate-very-slow-zoom {
+    animation: very-slow-zoom 30s ease-in-out infinite;
+  }
+}
